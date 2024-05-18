@@ -1,0 +1,8 @@
+C:\Users\maryam\Desktop\teyfe rang\teyfe rang\bin\Debug\teyfe rang.exe
+C:\Users\maryam\Desktop\teyfe rang\teyfe rang\bin\Debug\teyfe rang.pdb
+C:\Users\maryam\Desktop\teyfe rang\teyfe rang\obj\x86\Debug\teyfe_rang.Form1.resources
+C:\Users\maryam\Desktop\teyfe rang\teyfe rang\obj\x86\Debug\teyfe_rang.Properties.Resources.resources
+C:\Users\maryam\Desktop\teyfe rang\teyfe rang\obj\x86\Debug\teyfe rang.csproj.GenerateResource.Cache
+C:\Users\maryam\Desktop\teyfe rang\teyfe rang\obj\x86\Debug\teyfe rang.exe
+C:\Users\maryam\Desktop\teyfe rang\teyfe rang\obj\x86\Debug\teyfe rang.pdb
+C:\Users\maryam\Desktop\teyfe rang\teyfe rang\obj\x86\Debug\teyfe rang.csprojResolveAssemblyReference.cache

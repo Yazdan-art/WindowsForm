@@ -26,3 +26,13 @@ F:\c#\baner\baner\obj\x86\Debug\baner.Properties.Resources.resources
 F:\c#\baner\baner\obj\x86\Debug\baner.csproj.GenerateResource.Cache
 F:\c#\baner\baner\bin\Debug\baner.exe
 F:\c#\baner\baner\bin\Debug\baner.pdb
+Z:\VisualStudio\P.VazifehDust\test_repository\WindowsForm\baner\baner\bin\Debug\baner.exe.config
+Z:\VisualStudio\P.VazifehDust\test_repository\WindowsForm\baner\baner\bin\Debug\baner.exe
+Z:\VisualStudio\P.VazifehDust\test_repository\WindowsForm\baner\baner\bin\Debug\baner.pdb
+Z:\VisualStudio\P.VazifehDust\test_repository\WindowsForm\baner\baner\obj\x86\Debug\baner.csproj.AssemblyReference.cache
+Z:\VisualStudio\P.VazifehDust\test_repository\WindowsForm\baner\baner\obj\x86\Debug\baner.Form1.resources
+Z:\VisualStudio\P.VazifehDust\test_repository\WindowsForm\baner\baner\obj\x86\Debug\baner.Properties.Resources.resources
+Z:\VisualStudio\P.VazifehDust\test_repository\WindowsForm\baner\baner\obj\x86\Debug\baner.csproj.GenerateResource.cache
+Z:\VisualStudio\P.VazifehDust\test_repository\WindowsForm\baner\baner\obj\x86\Debug\baner.csproj.CoreCompileInputs.cache
+Z:\VisualStudio\P.VazifehDust\test_repository\WindowsForm\baner\baner\obj\x86\Debug\baner.exe
+Z:\VisualStudio\P.VazifehDust\test_repository\WindowsForm\baner\baner\obj\x86\Debug\baner.pdb
