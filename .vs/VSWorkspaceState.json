@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\adad aval",
     "\\adad aval\\adad aval",
-    "\\arz",
-    "\\baner",
-    "\\calculater"
+    "\\color_range",
+    "\\color_range\\teyfe rang"
   ],
-  "SelectedNode": "\\adad aval\\adad aval\\Form1.cs",
+  "SelectedNode": "\\color_range\\teyfe rang\\Form1.Designer.cs",
   "PreviewInSolutionExplorer": false
 }
